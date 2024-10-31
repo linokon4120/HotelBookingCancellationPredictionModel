@@ -4,6 +4,7 @@
 The EDA reveals insights into a collection of data aimed at predicting hotel booking cancellations. It provides some meaningful insights into the dataset's characteristics, including class imbalances, seasonal booking patterns, and factors influencing cancellation status. By leveraging these findings, stakeholders can develop informed strategies to optimize revenue and mitigate hotel booking cancellations effectively.
 
 **Author**: Ellyn Ngo
+
 **Date**: February 2024 - June 2024
 
 **Goal**: This EDA aims to provide valuable insights into factors influencing hotel booking cancellations. This includes understanding customer behavior, preferences, and potential reasons for cancellations, which can inform business decisions and strategies to mitigate cancellations.
